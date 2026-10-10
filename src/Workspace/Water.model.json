@@ -1,0 +1,1 @@
+{"className": "Part", "properties": {"Anchored": true, "CFrame": [0, -0.5, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1], "CanCollide": false, "Color": {"Color3": [0.12, 0.35, 0.65]}, "Material": "Plastic", "Size": {"Vector3": [4000, 1, 4000]}, "TopSurface": "Smooth"}}
